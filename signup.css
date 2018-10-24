@@ -1,0 +1,132 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:tahoma;
+	background:#2F261F;
+}
+.signup-area {
+  background: #fefafb none repeat scroll 0 0;
+  margin: 30px auto 0;
+  width: 770px;
+}
+.middle {
+	width:90%;
+	margin: 0 auto;
+}
+.signup-form{
+	padding-top:45px;
+}
+.signup-form h2 {
+	margin:0;
+	padding:0;
+	color:#F7A400;
+}
+.signup-form p {
+	color:#7E7C7D;
+	font-size:20px;
+	margin-top:10px;
+	padding:0;
+	font-weight:bold;
+}
+.signup-form label {
+	display:block;
+	text-transform:capitalize;
+}
+.name-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.name-area input {
+	border:1px solid #E3E1E2;
+	height:50px;
+	width:630px;
+	margin-bottom:10px;
+}
+.password-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.password-area input {
+	border:1px solid #E3E1E2;
+	height:50px;
+	width:630px;
+	margin-bottom:10px;
+}
+.repassword-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.repassword-area input {
+	border:1px solid #E3E1E2;
+	height:50px;
+	width:630px;
+	margin-bottom:10px;
+}
+.country-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.country-area select {
+	border: 1px solid #E3E1E2;
+	height: 50px;
+	width: 630px;
+	margin-bottom: 10px;
+	font-size: 18px;
+	padding-left: 15px;
+	color:#9D9B9C;
+}
+.birthday p {
+	font-size:15px;
+	color:#7E7C7D;
+	margin-bottom:20px;
+}
+.birthday select {
+  border: 1px solid #e3e1e2;
+  color: #9d9b9c;
+  font-size: 18px;
+  height: 50px;
+  margin-bottom: 10px;
+  padding-left: 15px;
+  width: 140px;
+}
+.checkbox {
+	margin:10px 0;
+}
+.yes {
+	margin-bottom:20px;
+}
+.no {
+	margin-bottom:50px;
+}
+.checkbox input {
+	float:left;
+	overflow:hidden;
+}
+#checkbox {
+	border:1px solid #E3E1E2;
+	background:#FEFAFB;
+	height:10px;
+	width:10px;
+}
+.checkbox label {
+  margin-left: 40px;
+  color:#7E7C7D;
+}
+.button {
+	width:70px;
+	margin:0 auto;
+}
+.button input {
+	background: #f7a400 none repeat scroll 0 0;
+	border: medium none;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin: -12px 0 50px;
+	padding: 10px 20px;
+	cursor: pointer;
+}

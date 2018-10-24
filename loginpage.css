@@ -1,0 +1,91 @@
+body {
+	margin:0;
+	padding:0;
+	font-family:tahoma;
+	background:#2F261F;
+}
+.login-area {
+  background: #fefafb none repeat scroll 0 0;
+  margin: 30px auto 0;
+  width: 770px;
+}
+.middle {
+	width:90%;
+	margin: 0 auto;
+}
+.login-form{
+	padding-top:45px;
+}
+.login-form h2 {
+	margin:0;
+	padding:0;
+	color:#F7A400;
+}
+.login-form p {
+	color:#7E7C7D;
+	font-size:20px;
+	margin-top:10px;
+	padding:0;
+	font-weight:bold;
+}
+.login-form label {
+	display:block;
+	text-transform:capitalize;
+}
+.name-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.name-area input {
+	border:1px solid #E3E1E2;
+	height:50px;
+	width:630px;
+	margin-bottom:10px;
+}
+.password-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.password-area input {
+	border:1px solid #E3E1E2;
+	height:50px;
+	width:630px;
+	margin-bottom:10px;
+}
+.forgot-area label {
+	font-size:18px;
+	color:#7E7C7D;
+	margin-bottom:12px;
+}
+.forgot-area input {
+  border: 1px solid #e3e1e2;
+  color: rgba(156, 154, 155, 0.6);
+  font-size: 16px;
+  font-weight: bold;
+  height: 50px;
+  padding-left: 40px;
+  width: 593px;
+}
+.security p {
+  color: #7e7c7d;
+  font-size: 14px;
+  font-weight: bold;
+  margin-top: 20px;
+  padding: 0;
+}
+.button {
+	width:70px;
+	margin:0 auto;
+}
+.button input {
+	background: #f7a400 none repeat scroll 0 0;
+	border: medium none;
+	color: #ffffff;
+	font-size: 18px;
+	font-weight: bold;
+	margin: 25px 0 50px;
+	padding: 10px 20px;
+	box-sizing:padding-box;
+}
